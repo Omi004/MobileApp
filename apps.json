@@ -41,7 +41,7 @@
             "rule":"afterlogin",
             "icon":"<span class='glyphicon glyphicon-bullhorn pull-right'></span>"
         },
-        "#settings": {
+        "#setting": {
             "title":"Settings",
             "icon":"<span class='glyphicon glyphicon-wrench pull-right'></span>"
         },
@@ -55,7 +55,7 @@
             "rule":"beforelogin",
             "icon":"<span class='glyphicon glyphicon-log-in pull-right'></span>"
         },
-        "http://demo.openlogiks.org/home/about/faqs?utmSource=mobileApp":{
+        "#FAQ":{
             "title":"FAQs",
             "clas":"border-top",
             "icon":"<span class='glyphicon glyphicon-globe pull-right'></span>"
@@ -63,6 +63,26 @@
         "#about": {
             "title":"About Us",
             "icon":"<span class='glyphicon glyphicon-info-sign pull-right'></span>"
+        },
+        "#searchEvent": {
+            "title":"Search Events",
+            "icon":"<span class='glyphicon glyphicon-search pull-right'></span>"
+        },
+        "#listEvents": {
+            "title":"List of Events",
+            "icon":"<span class='glyphicon glyphicon-search pull-right'></span>"
+        },
+        "#event": {
+            "title":"View Event",
+            "icon":"<span class='glyphicon glyphicon-search pull-right'></span>"
+        },
+        "#contact": {
+            "title":"Contact Us",
+            "icon":"<span class='glyphicon glyphicon-search pull-right'></span>"
+        },
+        "#eventType": {
+            "title":"Event Type",
+            "icon":"<span class='glyphicon glyphicon-search pull-right'></span>"
         }
     }
 }
