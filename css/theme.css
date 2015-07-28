@@ -699,7 +699,7 @@ a:hover{ text-decoration: underline; }
 .alignleft { float: left; margin-right: 15px; }
 .alignright { float: right; margin-left: 15px; }
 .clearfix:after,
-login_content form:after {
+form:after {
     content: ".";
 
     height: 0;
